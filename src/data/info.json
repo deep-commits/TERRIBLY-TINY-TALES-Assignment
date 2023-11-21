@@ -1,0 +1,48 @@
+{
+  "user": {
+    "name": "Deepak Sharma",
+    "username": "Deepak06",
+    "bio": "Versatile full stack developer with a flair for creativity and innovation.",
+    "followers": 1034,
+    "following": 21,
+    "posts": [
+      {
+        "title": "A Changing World Order",
+        "postcontent": "The World is changing at a feverish pace. Friends, colleagues and everyone engaged in knowledge work are beginning to sense this, including...",
+        "liked": true,
+        "date": "August 2",
+        "readingtime": "2",
+        "views": "320",
+        "category": "musing"
+      },
+      {
+        "title": "Indian v/s Australia",
+        "postcontent": "Think about it - this cricket series was akin to therapy. Laying our childhood trauma up too, working with it slowly and surely over two m...",
+        "liked": true,
+        "date": "January 21",
+        "readingtime": "1",
+        "views": "556",
+        "category": "thoughts"
+      },
+      {
+        "title": "Write To Build",
+        "postcontent": "Writing is the step to create:",
+        "liked": true,
+        "date": "November 18",
+        "readingtime": "3",
+        "views": "430",
+        "category": "thoughts"
+      },
+      {
+        "title": "Why X people Do X",
+        "postcontent": "Understanding human behavior is a complex task influenced by personal needs, social influences, internalized beliefs, psychological factors, and external circumstances.",
+        "liked": true,
+        "date": "June 7",
+        "readingtime": "5",
+        "views": "710",
+        "category": "musing"
+      }
+      
+    ]
+  }
+}
