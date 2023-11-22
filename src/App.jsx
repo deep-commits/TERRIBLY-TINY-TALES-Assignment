@@ -15,5 +15,3 @@ const App = () => {
 
 export default App;
 
-// github: github.com/aryanjha256/
-// website: https://portfolio-v1-kohl.vercel.app/

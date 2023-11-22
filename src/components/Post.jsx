@@ -1,7 +1,7 @@
 import { FaThumbsUp } from "react-icons/fa";
 import { user } from "../data/info.json";
 
-// Helper function to truncate text to a 12 words.
+
 const truncateText = (text, maxLength) => {
   const words = text.split(" ");
   if (words.length > maxLength) {
